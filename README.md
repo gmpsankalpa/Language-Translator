@@ -50,12 +50,12 @@ You can see a live demo of Language Translator [here](#).
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/gmpsankalpa/language-translator.git
+    git clone https://github.com/gmpsankalpa/Language-Translator.git
 
 2. Navigate to the project directory: 
 
     ```bash
-    cd language-translator
+    cd Language-Translator
 
 3. Open the `index.html` file in your web browser.
 
@@ -86,10 +86,10 @@ This project is licensed under the [MIT](LICENSE) License
 
 <div align="center">
 
-   ![repo size](https://img.shields.io/github/repo-size/gmpsankalpa/language-translator?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
-   ![GitHub forks](https://img.shields.io/github/forks/gmpsankalpa/language-translator?&labelColor=black&color=0fb9b1&style=for-the-badge)
-   ![GitHub stars](https://img.shields.io/github/stars/gmpsankalpa/language-translator?&labelColor=black&color=f7b731&style=for-the-badge)
-   ![GitHub LastCommit](https://img.shields.io/github/last-commit/gmpsankalpa/language-translator?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+   ![repo size](https://img.shields.io/github/repo-size/gmpsankalpa/Language-Translator?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+   ![GitHub forks](https://img.shields.io/github/forks/gmpsankalpa/Language-Translator?&labelColor=black&color=0fb9b1&style=for-the-badge)
+   ![GitHub stars](https://img.shields.io/github/stars/gmpsankalpa/Language-Translator?&labelColor=black&color=f7b731&style=for-the-badge)
+   ![GitHub LastCommit](https://img.shields.io/github/last-commit/gmpsankalpa/Language-Translator?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
 </div>
 
